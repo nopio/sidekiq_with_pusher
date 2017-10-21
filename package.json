@@ -1,0 +1,5 @@
+{
+  "name": "sidekiq_with_pusher",
+  "private": true,
+  "dependencies": {}
+}
