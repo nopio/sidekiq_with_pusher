@@ -2,9 +2,8 @@ class HomeController < ApplicationController
   def index
   end
 
-  def download
-  end
-
-  def upload
+  def generate
+    FileBuilder.new.call
+    head :ok
   end
 end

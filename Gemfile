@@ -13,6 +13,7 @@ gem 'uglifier', '>= 1.3.0'
 gem 'redis', '~> 3.0'
 gem 'sidekiq'
 gem 'foreman'
+gem 'jquery-rails'
 
 group :development, :test do
   gem 'pry-rails'
