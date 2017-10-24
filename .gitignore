@@ -24,3 +24,6 @@
 
 # Redis
 dump.rdb
+
+# Dotenv
+.env
